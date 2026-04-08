@@ -1,0 +1,14 @@
+# modele
+*.pt
+*.pth
+
+# dane
+data/
+*.mp4
+
+# cache
+__pycache__/
+*.pyc
+
+# system
+.DS_Store
