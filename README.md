@@ -2,7 +2,7 @@
 
 ## 🎥 Demo
 
-![Demo](demo/demo.gif)
+![Demo](demo/demo.mp4)
 
 The system detects the ball, tracks its trajectory, identifies the receiving player, and classifies the landing zone on the court.
 
