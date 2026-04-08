@@ -2,7 +2,11 @@
 
 ## 🎥 Demo
 
-![Demo](demo/demo.mp4)
+End-to-end volleyball serve analysis using YOLOv8 + SAM2.
+
+![Demo](demo/demo.gif)
+
+▶ Full video: demo/demo.mp4
 
 The system detects the ball, tracks its trajectory, identifies the receiving player, and classifies the landing zone on the court.
 
